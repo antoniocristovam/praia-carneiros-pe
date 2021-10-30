@@ -1,2 +1,0 @@
-# praia-carneiros-pe
-Projeto
