@@ -115,3 +115,26 @@ nav {
 nav {
 	background-color: rgba(0, 0, 0, 0.253);
 }
+
+.icon-site {
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+}
+
+.center-img {
+    display: flex;
+    margin-top: 25px;
+}
+
+.img-marg {
+    padding-right: 10px;
+}
+
+.icon-beneficio {
+	width: 230px;
+	height: 300px;
+	display: inline-block;
+	margin-left: 5%;
+	margin-right: 5%;
+}
