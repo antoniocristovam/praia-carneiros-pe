@@ -137,4 +137,5 @@ nav {
 .blocos__list-beneficios {
 	margin: 0.5rem 10rem 0 0;
 	display: inline-block;
+	padding: 5px;
 }
