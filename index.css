@@ -102,10 +102,9 @@ nav {
 .info-text {
 	text-align: center;
 	font-weight: bold;
-	font-family: 'Varela Round', sans-serif;
+	font-family: merienda;
 	color: #242424;
-	margin-top: 15px;
-	margin-bottom: 15px;
+	margin: 2rem;
 }
 
 .mapa-praia {
@@ -131,10 +130,11 @@ nav {
     padding-right: 10px;
 }
 
-.icon-beneficio {
-	width: 230px;
-	height: 300px;
+.list__beneficio {
+	text-align: center;
+}
+
+.blocos__list-beneficios {
+	margin: 0.5rem 10rem 0 0;
 	display: inline-block;
-	margin-left: 5%;
-	margin-right: 5%;
 }
